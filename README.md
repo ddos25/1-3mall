@@ -23,6 +23,11 @@ npm run test
 ### Lints and fixes files
 ```
 npm run lint
+
+
+### json-server
+```
+json-server --port 3030 #.json
 ```
 
 ### Customize configuration

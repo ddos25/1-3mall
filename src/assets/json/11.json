@@ -1,0 +1,95 @@
+{
+  "id":1001,
+  "multidata": {
+    "banners":{
+      "list":[
+        {"acm":"12345","height":390,"image":"@/img/goods/1.jpg"},
+        {"acm":"12345","height":390,"image":"@/img/goods/2.jpg"},
+        {"acm":"12345","height":390,"image":"@/img/goods/3.jpg"},
+        {"acm":"12345","height":390,"image":"@/img/goods/4.jpg"}
+      ]
+    },
+    "recommends":{
+      "list":[
+        {"acm":"12345","height":390,"image":"@/img/goods/6.jpg"},
+        {"acm":"12345","height":390,"image":"@/img/goods/7.jpg"},
+        {"acm":"12345","height":390,"image":"@/img/goods/8.jpg"},
+        {"acm":"12345","height":390,"image":"@/img/goods/9.jpg"}
+      ]
+
+    }
+  },
+  "sex": 1,
+  "age": 18
+},
+{
+"id":1002,
+"multidata": {
+"banners":{
+"list":[
+{"acm":"12345","height":390,"image":"@/img/goods/11.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/12.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/13.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/14.jpg"}
+]
+},
+"recommends":{
+"list":[
+{"acm":"12345","height":390,"image":"@/img/goods/16.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/17.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/18.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/19.jpg"}
+]
+
+}
+},
+"sex": 1,
+"age": 18
+},
+{
+"id":1003,
+"multidata": {
+"banners":{
+"list":[
+{"acm":"12345","height":390,"image":"@/img/goods/21.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/22.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/23.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/24.jpg"}
+]
+},
+"recommends":{
+"list":[
+{"acm":"12345","height":390,"image":"@/img/goods/26.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/27.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/28.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/29.jpg"}
+]
+
+}
+},
+"sex": 1,
+"age": 18
+},
+{
+"id":1004,
+"multidata": {
+"banners":{
+"list":[
+{"acm":"12345","height":390,"image":"@/img/goods/31.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/32.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/33.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/34.jpg"}
+]
+},
+"recommends":{
+"list":[
+{"acm":"12345","height":390,"image":"@/img/goods/36.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/37.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/38.jpg"},
+{"acm":"12345","height":390,"image":"@/img/goods/39.jpg"}
+]
+
+}
+},
+
+}
